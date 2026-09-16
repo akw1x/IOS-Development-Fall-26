@@ -26,7 +26,7 @@ studentscore.updateValue(95, forKey: "Adel")
 print(studentscore)
 
 let firstArray: [String] = ["apple", "banana"]
-let secondArray: [String] = ["cherry", "kiwi"]
+let secondArray: [String] = ["cherry", "date"]
 let mergedArray = firstArray + secondArray
 print(mergedArray)
 
