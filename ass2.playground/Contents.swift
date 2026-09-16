@@ -22,7 +22,7 @@ let intersection = a.intersection(b)
 print(intersection)
 
 var studentscore: [String:Int] = ["Nariman": 85, "Adel": 92, "Temirlan": 78]
-studentscore.updateValue(95, forKey: "Sarbi")
+studentscore.updateValue(95, forKey: "Adel")
 print(studentscore)
 
 let firstArray: [String] = ["apple", "banana"]
