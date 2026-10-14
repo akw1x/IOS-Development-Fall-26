@@ -13,4 +13,4 @@ Single-screen iOS application that displays a random favorite movie card without
 ## Screenshots
 | Launch Screen | Main Screen | Home Screen Icon |
 |:---:|:---:|:---:|
-| <img src="screenshots/launch.png" width="250"/> | <img src="screenshots/main.png" width="250"/> | <img src="screenshots/Home Screen.png" width="250"/> |
+| <img src="screenshots/launch.png" width="250"/> | <img src="screenshots/Main.png" width="250"/> | <img src="screenshots/Home Screen.png" width="250"/> |
