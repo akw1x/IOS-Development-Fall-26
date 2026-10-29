@@ -8,8 +8,8 @@ A single-screen iOS music player built with UIKit, `UIStackView`, Auto Layout, a
 
 | iPhone SE (3rd generation) | iPhone 16 Pro Max |
 |:-------------------------:|:-----------------:|
-| ![iPhone SE](screenshots/iphone_se.png) | ![iPhone 16 Pro Max](screenshots/iphone17pro_max.png) |
-iphobe
+| ![iPhone SE](/Users/adelkikbai/Desktop/ios dev/screenshots/iphone_se.png) | ![iPhone 17 Pro Max](/Users/adelkikbai/Desktop/ios dev/screenshots/iphone17pro_max.png) |
+
 ---
 
 ## ✨ Features & Functionality
