@@ -9,4 +9,4 @@ A UIKit application built with Swift that displays a list of 20 favorite countri
 | ![iPhone SE](screenshots/iphone_se.png) | ![iPhone 17 Pro Max](screenshots/iphone17_promax.png) |
 
 ## Demo Video
-
+[Demo Video](screenshots/demo.mov)
