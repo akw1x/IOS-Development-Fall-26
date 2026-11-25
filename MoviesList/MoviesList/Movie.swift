@@ -76,7 +76,7 @@ struct MovieStore {
         Movie(
             title: "The Matrix",
             subtitle: "Lana & Lilly Wachowski · 1999",
-            imageName: "poster1 0",
+            imageName: "poster 10",
             rating: 5,
             description: "A computer hacker learns about the true nature of his reality from a group of mysterious rebels. He wakes up to discover a dystopian world controlled by artificial intelligence. Together with Morpheus and Trinity, he fights for human liberation."
         ),
