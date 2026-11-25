@@ -20,4 +20,4 @@ A two-screen iOS app built with UIKit and Storyboard that loads all superheroes 
 ## Screenshots
 | Heroes List | Detail Page 1 | Detail Page 2 |
 | :---: | :---: | :---: |
-| ![Heroes List](screenshots/list.png) | ![Detail 1](screenshots/hero1.png) | ![Detail 2](screenshots/hero2.png) |
+| ![Heroes List](screenshots/List.png) | ![Detail 1](screenshots/hero1.png) | ![Detail 2](screenshots/hero2.png) |
